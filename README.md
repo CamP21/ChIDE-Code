@@ -1,7 +1,8 @@
 # ChIDE-Code
 ### Originally coded on ChIDE program
 
-Guess a number.ch
-- Computer generates a random number
-- User guesses a number
-- Computer gives a response on whether guess was correct or not
+matTransfer.ch
+- Linkbot must travel with a hacky sack touching it to a specified coordinate point
+
+groupdance.ch
+- A group of Linkbots must perform a series of actions
