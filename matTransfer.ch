@@ -28,7 +28,7 @@ scanf("%d", &X);
 printf("What is the Y-coordinate? \n");
 scanf("%d", &Y);
 
-/* PLACEMENT: The ball of the purple stabilizer is in front of the blue line, in between the green and red dots
+// PLACEMENT: The ball of the purple stabilizer is in front of the blue line, in between the green and red dots
 
 /* locationA(): linkbot's starting position is (4, 39)
                 linkbot drives to a y-value of 12
