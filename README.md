@@ -22,7 +22,7 @@ Linkbot Programs
 - groupdance.ch
   - A group of Linkbots must perform a series of actions
 
-## Arduino Code
+# Arduino Code
 
 1-7.ino
 - If the switch is turned on, the green LED turns on
