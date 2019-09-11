@@ -24,6 +24,8 @@ Linkbot Programs
 
 # Arduino Code
 
+### Coded in Arduino for an Arduino Uno
+
 1-7.ino
 - If the switch is turned on, the green LED turns on
 - If the switch is on and the button was pressed, the green LED will turn off, the yellow LED turns on for 1 second, the red LED will turn on for 3 seconds, and then the green LED will turn on again.
